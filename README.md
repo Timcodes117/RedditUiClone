@@ -9,7 +9,6 @@ A new Flutter project.
   - Stateless Widgets
   - StateFull Widget
   - Custom Widgets
-
-# Customer Bottom Navigation.
-# Routes
-# Screen Navigation
+  - Customer Bottom Navigation.
+  - Routes
+  - Screen Navigation
