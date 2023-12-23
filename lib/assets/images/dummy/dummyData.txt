@@ -1,0 +1,23 @@
+
+[
+    {
+        id: "001",
+        username: "Timothy James",
+        caption: "this is just a dummy test data",
+        image: "",
+        upVotes: "",
+        downVote: "",
+        comments: [{id: "001comment", username: "Helloworld", replies: [{id: "001reply", username: "Bluesky12"}]}],
+        profile: "",        
+    },
+    {
+        id: "002",
+        username: "Ajax Call",
+        caption: "this is just a dummy test data",
+        video: "",
+        upVotes: "",
+        downVote: "",
+        comments: [{id: "002comment", username: "world", replies: [{id: "002reply", username: "syntax11"}]}],
+        profile: "",        
+    }
+]
