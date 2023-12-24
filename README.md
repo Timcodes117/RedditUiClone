@@ -15,19 +15,19 @@ A new Flutter project.
   - Screen Navigation
 
 ## Dummy data
-class DummyComments{
-  late String sender;
-  late List replies;
-  late String message;
-
+<p class="color: aqua" >class</p> DummyComments{ <br/>
+  late String sender;<br/>
+  late List replies;<br/>
+  late String message;<br/>
+<br/>
   DummyComments(this.sender, this.message, this.replies);
-
-  Map<String, dynamic> tojson(){
-    return {
-      "sender": sender,
-      "replies" : replies,
-      "message" : message,
-    };
-  }
-  
-}
+<br/><br/>
+  Map<String, dynamic> tojson(){<br/>
+    return {<br/>
+      "sender": sender,<br/>
+      "replies" : replies,<br/>
+      "message" : message,<br/>
+    };<br/>
+  }<br/>
+  <br/>
+}<br/>
