@@ -2,7 +2,7 @@
 # redditclone
 A Flutter project.
 
-<img src="/mobile-dev-eval.png" height="300px" />
+<img src="/mobile-dev-eval.png" style="width: 100%; height: 400px; background-position: center; " />
 
 
 ## About
