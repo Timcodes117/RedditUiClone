@@ -2,7 +2,7 @@
 # redditclone
 A Flutter project.
 
-<img src="/mobile-dev-eval.png" alt="Alt Text" style="width: 100%; max-width: 300px; height: 500px; object-fit: cover;">
+<img src="/mobile-dev-eval.png" alt="Alt Text" style="width: 100%; height: 600px; object-fit: cover;">
 
 
 
