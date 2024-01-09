@@ -1,6 +1,9 @@
-# redditclone
 
-A new Flutter project.
+# redditclone
+A Flutter project.
+
+<img src="/mobile-dev-eval.png" />
+
 
 ## About
  <p>reddit ui clone.</p>
