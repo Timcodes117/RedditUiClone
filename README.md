@@ -2,7 +2,7 @@
 # redditclone
 A Flutter project.
 
-<img src="/mobile-dev-eval.png" />
+<img src="/mobile-dev-eval.png" height="300px" />
 
 
 ## About
