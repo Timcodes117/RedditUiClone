@@ -2,7 +2,7 @@
 # redditclone
 A Flutter project.
 
-<div style="width: 100%; height: 400px; background: url('./mobile-dev-eval.png'); background-position: center; background-size: cover;"></div>
+<div style="width: 100%; height: 400px; background: url('mobile-dev-eval.png'); background-position: center; background-size: cover;"></div>
 
 
 
